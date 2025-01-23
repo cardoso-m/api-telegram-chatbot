@@ -1,5 +1,3 @@
-Aqui está o README atualizado com a descrição incorporada:
-
 # Integração com Chatbot Telegram
 [![pt-br](https://img.shields.io/badge/language-pt--br-green.svg)](https://github.com/cardoso-m/api-telegram-chatbot/blob/main/README.pt-br.md)
 [![en](https://img.shields.io/badge/language-en-orange.svg)](https://github.com/cardoso-m/api-telegram-chatbot/blob/main/README.md)
