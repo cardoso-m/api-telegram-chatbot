@@ -1,7 +1,11 @@
+Aqui está o README atualizado com a descrição incorporada:
+
 # Integração com Chatbot Telegram
 [![pt-br](https://img.shields.io/badge/language-pt--br-green.svg)](https://github.com/cardoso-m/api-telegram-chatbot/blob/main/README.pt-br.md)
 [![en](https://img.shields.io/badge/language-en-orange.svg)](https://github.com/cardoso-m/api-telegram-chatbot/blob/main/README.md)
 [![Star on GitHub](https://img.shields.io/github/stars/kauemurakami/go-snippets.svg?style=flat&logo=github&colorB=deeppink&label=stars)](https://github.com/cardoso-m/api-telegram-chatbot)
+
+Esta API foi criada para facilitar a interação com um chatbot no Telegram. Ela permite que você envie mensagens personalizadas para o seu bot e obtenha atualizações sobre as interações que ele teve com os usuários. Mesmo quem não tem muita experiência em programação pode usar a API facilmente, seguindo passos simples para configurar e começar a enviar e receber mensagens rapidamente. É uma ótima solução para pessoas e empresas que querem automatizar a comunicação com clientes e usuários!
 
 ## Passos para Configuração
 
