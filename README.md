@@ -27,7 +27,7 @@ git clone https://github.com/cardoso-m/api-telegram-chatbot
 ### 4. Configuring the Environment
 
 - Navigate to the cloned repository folder.
-- Open the `.env` file and add the following variables, replacing with the correct values:
+- Create a `.env` file and add the following variables, replacing them with the correct values:
 
 ```plaintext
 ## Server Port
