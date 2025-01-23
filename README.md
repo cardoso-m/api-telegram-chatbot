@@ -3,6 +3,8 @@
 [![en](https://img.shields.io/badge/language-en-orange.svg)](https://github.com/cardoso-m/api-telegram-chatbot/blob/main/README.md)
 [![Star on GitHub](https://img.shields.io/github/stars/kauemurakami/go-snippets.svg?style=flat&logo=github&colorB=deeppink&label=stars)](https://github.com/cardoso-m/api-telegram-chatbot)
 
+This API was created to facilitate interaction with a chatbot on Telegram. It allows you to send personalized messages to your bot and retrieve updates on the interactions it has had with users. Even those with little programming experience can easily use the API by following simple steps to set it up and quickly start sending and receiving messages. It is an excellent solution for individuals and businesses looking to automate communication with clients and users!
+
 ## Setup Steps
 
 ### 1. Creating a Bot on Telegram
@@ -61,7 +63,7 @@ Once the server is running, you can use tools like Insomnia or Postman to make r
 ### 1. Requests
 
 - **POST Request**: `http://localhost:<YOUR_PORT>/sendMessage`
-
+  
 - **GET Request**: `http://localhost:<YOUR_PORT>/getUpdates`
 
 ### 2. Modifying Messages
